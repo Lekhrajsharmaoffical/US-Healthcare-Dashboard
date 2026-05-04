@@ -1,1 +1,1 @@
-# US-Healthcare-Dashboard
+This repository contains a comprehensive US Healthcare Dataset consisting of 10,000 patient records collected from hospitals across the United States. The dataset is designed to support exploratory data analysis, machine learning projects, and healthcare trend studies. It provides a rich combination of patient demographics, medical conditions, hospitalization details, billing information, and treatment outcomes.
